@@ -47,7 +47,7 @@ def add_files(dirname):
 			
 			for sentence in sentences:
 				if sentence!="" or None:
-					print unicode(sentence)
+					print sentence.encode('ascii', 'ignore')
 					writer = ix.writer()
 					writer.add_document(textfile=unicode(file),content=sentence)
 					writer.commit()
