@@ -62,7 +62,6 @@ for file in os.listdir(INPUT_DIR):
 				path = path.replace("/", "") #remove forward slashes
 				raw_text = unicode(grab_article(article_url))
 				
-				print raw_text
 				if raw_text!=None:
 					text = fix_text(raw_text)
 					text = text + "\n\n\n\n"
