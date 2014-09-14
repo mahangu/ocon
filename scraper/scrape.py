@@ -60,7 +60,7 @@ for file in os.listdir(INPUT_DIR):
 				hostname = urlparse.urlparse(article_url).hostname
 				path = urlparse.urlparse(article_url).path #grab the part after the .TLD
 				path = path.replace("/", "") #remove forward slashes
-				raw_text = grab_article(article_url)
+				raw_text = unicode(grab_article(article_url))
 				
 				print raw_text
 				if raw_text!=None:
