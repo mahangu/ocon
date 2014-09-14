@@ -9,8 +9,8 @@ http://archives.dailynews.lk/2008/01/01/news18.asp
 http://archives.dailynews.lk/2008/01/01/news20.asp
 http://archives.dailynews.lk/2008/01/01/news22.asp
 http://archives.dailynews.lk/2008/01/01/news23.asp
-http://archives.dailynews.lk/2008/01/01/news03.asp
 http://archives.dailynews.lk/2008/01/01/news24.asp
+http://archives.dailynews.lk/2008/01/01/news03.asp
 http://archives.dailynews.lk/2008/01/01/news26.asp
 http://archives.dailynews.lk/2008/01/01/news50.asp
 http://archives.dailynews.lk/2008/01/01/main_Editorial.asp
@@ -31,13 +31,13 @@ http://archives.dailynews.lk/2008/01/01/bus27.asp
 http://archives.dailynews.lk/2008/01/01/bus30.asp
 http://archives.dailynews.lk/2008/01/01/bus31.asp
 http://archives.dailynews.lk/2008/01/01/fea01.asp
-http://archives.dailynews.lk/2008/01/01/fea02.asp
 http://archives.dailynews.lk/2008/01/01/fea03.asp
 http://archives.dailynews.lk/2008/01/01/fea04.asp
 http://archives.dailynews.lk/2008/01/01/fea05.asp
 http://archives.dailynews.lk/2008/01/01/fea07.asp
 http://archives.dailynews.lk/2008/01/01/fea10.asp
 http://archives.dailynews.lk/2008/01/01/fea11.asp
+http://archives.dailynews.lk/2008/01/01/fea02.asp
 http://archives.dailynews.lk/2008/01/01/pol01.asp
 http://archives.dailynews.lk/2008/01/01/pol02.asp
 http://archives.dailynews.lk/2008/01/01/pol03.asp
