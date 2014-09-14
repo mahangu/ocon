@@ -31,8 +31,8 @@ def grab_article(url):
 	paragraphs = justext.justext(response.content, justext.get_stoplist("English"))
 	for paragraph in paragraphs:
 		if not paragraph.is_boilerplate:
-			print paragraph.text
-			article = article + paragraph.text + "\n\n"
+			#print paragraph.text
+			article = article + unicode(paragraph.text) + "\n\n"
 	
 	
 	
