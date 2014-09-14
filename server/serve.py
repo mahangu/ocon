@@ -81,7 +81,7 @@ class SearchHandler(tornado.web.RequestHandler):
 					all_formatted_results = all_formatted_results + formatted_result.replace(search_term,formatted_term)
 					#self.write(result["content"] + "<br /><br />")
 					
-			self.write("<strong>" + str(len(results_seen)) + " results found for " + search_term + " out of " + str(searcher.doc_count_all()) + " indexed sentences (and 1,448,323 total tokens).</strong> <br /><br />")
+			self.write("<strong>" + str(len(results_seen)) + " results found for <em>" + search_term + "</em> out of " + str(searcher.doc_count_all()) + " indexed sentences (and 1,448,323 total tokens).</strong> " + 'Click on a token to view the source document.<hr />')
 	
 			self.write(all_formatted_results)
 			html_footer = open("templates/footer.html").read()
