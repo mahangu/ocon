@@ -81,12 +81,11 @@ class SearchHandler(tornado.web.RequestHandler):
 					all_formatted_results = all_formatted_results + formatted_result.replace(search_term,formatted_term)
 					#self.write(result["content"] + "<br /><br />")
 					
-			self.write("<strong>" + str(len(results_seen)) + " results found for " + search_term + " out of " + str(searcher.doc_count_all()) + " indexed sentences.</strong> <br /><br />")
+			self.write("<strong>" + str(len(results_seen)) + " results found for " + search_term + " out of " + str(searcher.doc_count_all()) + " indexed sentences (and 1,448,323 total tokens).</strong> <br /><br />")
 	
 			self.write(all_formatted_results)
 			html_footer = open("templates/footer.html").read()
 			self.write(html_footer)
-
 
 class ContextHandler(tornado.web.RequestHandler):
 	def get(self):
@@ -103,6 +102,19 @@ class ContextHandler(tornado.web.RequestHandler):
 		html_footer = open("templates/footer.html").read()
 		self.write(html_footer)
 
+class AboutHandler(tornado.web.RequestHandler):
+	def get(self):
+		
+		html_header = open("templates/header.html").read()
+		html_footer = open("templates/footer.html").read()
+		html_about = open("templates/about.html").read()
+		
+		print html_about
+		
+		self.write(html_header)
+		self.write(html_about)
+		self.write(html_footer)
+
 
 if __name__ == "__main__":			
 	
@@ -114,6 +126,7 @@ if __name__ == "__main__":
     (r"/", MainHandler),
 	(r"/search", SearchHandler),
 	(r"/context", ContextHandler),
+	(r"/about", AboutHandler),
 	(r'/static/(.*)', tornado.web.StaticFileHandler, {'path': 'templates/static'}),
 	]
 	
