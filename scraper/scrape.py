@@ -20,8 +20,10 @@ def grab_article(url):
 	article = ""
 	import requests
 	import justext
-	#url = "http://archives.dailynews.lk/2008/01/01/fea10.asp"
+	#url = "http://archives.dailynews.lk/2008/01/11/news38.asp"
 	url = url.strip("\n")
+	url = url.strip("\r")
+	url = url.strip(" ")
 	print url
 	
 	response = requests.get(url)
@@ -50,7 +52,7 @@ for file in os.listdir(INPUT_DIR):
 		article_url_list = ""
 		article_url_list = get_article_list(INPUT_DIR + file)  
 		
-	
+		print article_url_list
 		
 		for article_url in article_url_list:
 			scheme = urlparse.urlparse(article_url).scheme
