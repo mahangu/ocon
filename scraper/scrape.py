@@ -5,8 +5,8 @@ import urllib2
 import re #regex stuff
 from ftfy import fix_text #unicode cleanup
 
-INPUT_DIR="scraper/input/"
-OUTPUT_DIR="scraper/output/"
+INPUT_DIR="input/"
+OUTPUT_DIR="output/"
 
 def get_article_list(filename):
 	lines = tuple(open(filename, "r"))
