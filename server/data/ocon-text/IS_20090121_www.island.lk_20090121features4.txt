@@ -1,0 +1,50 @@
+Tiny robot 'submarine' in blood to help surgeons operate on stroke victims
+
+A tiny robot which could be injected into patients' bloodstreams to carry out potentially life-saving operations has been designed by scientists.
+
+By Kate Devlin, Medical Correspondent
+
+They hope that the minuscule "submarines", which measure less than the width of two human hairs, could help surgeons treat stroke patients and those with dangerous heart conditions.
+
+The devices, less than a quarter of a millimetre across and controlled remotely by doctors, are possible only because researchers have designed one of the world's smallest motors.
+
+The machines resemble those in 1987's science fiction film Innerspace, in which Dennis Quaid's character is accidentally shrunk inside a tiny submarine and injected into the blood of a hypochondriac played by Martin Short.
+
+But the idea was first floated in 1966's Fantastic Voyage, starring Raquel Welch, in which a similar machine was placed inside a diplomat to perform life-saving surgery.
+
+The researchers, from Monash University in Melbourne, Australia, have paid homage to that film by naming their device, Proteus, after the capsule in the film.
+
+The so-called "microbot" is strong enough to swim against blood flow and travel to parts of the body which could be damaged by larger instruments, especially in delicate parts of the brain.
+
+Prof James Friend, who helped to design the device, said that their impact could be substantial.
+
+He said: "We have a neurologist on the team who deals with stroke patients who come in needing urgent treatment.
+
+"At the moment about 30 per cent of his interventions fail or end up killing the patient.
+
+"One of our hopes would be that these microbots can increase his success rate, by allowing him to act more quickly and with greater precision."
+
+He added: "It is amazing, we have never been able to get these motors this small before."
+
+He estimates that the mini robot is around 70 per cent smaller than previous design attempts.
+
+To work, scientists use magnetic fields or radio waves to transfer power wirelessly from one machine to another after the device has been injected into the bloodstream using a tube.
+
+The robot's tiny motor then uses piezoelectricity, the electric spark used to start gas lighters, to power a "tail", less than a millimetre long, which can turn thousands of times in one second.
+
+The motion of the tail is based the action E. Coli bacteria uses to move through the body.
+
+Researchers plan to attach a scraping device to the microbot, which they say would help to clear blockages or remove build up in arteries.
+
+The microbot could be used to scrape cells from inside the body to carry out tests, including those for cancer, they believe.
+
+As technology progresses, they also hope to include a miniature camera to show doctors the inside of blood vessels.
+
+Previously surgeons have faced the possibility of tearing or rupturing arteries if they inserted a tube to try to clear blockages, according to the report in the Journal of Micromechanics and Microengineering.
+
+The team has tested the device in human blood and artificial arteries and later this year it will begin experiments in pigs, whose arteries and brains are similar to humans, before proceeding to full-scale human trials. A spokesman for the Institute of Physics, which published the report, said that using the miniature robots could "save lives by reaching parts of the body, like a stroke-damaged cranial artery, that (other instruments) have previously been unable to reach ."
+
+
+
+
+

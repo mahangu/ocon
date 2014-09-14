@@ -1,0 +1,66 @@
+Most of us are familiar with the concept of Bonus shares. Under the New Companies Act, Richard Peiris & Company PLC was the first to issue bonus shares, termed as a "scrip issue / dividends", the correct terminology to be used for the process of issuance of shares by capitalization of reserves, as pointed out in Charlesworth's Company Law.
+
+But ever heard of bonus debentures? To a corporate lawyer this is merely the younger sibling of bonus shares that exist only in the text of company law books, but hardly seen in practice.
+
+Any Sri Lankan company that has issued bonus debentures? Not that we know of! The authors wish to point out that bonus debentures are far from being a sibling of bonus shares in the domain of taxation. And, perhaps, this is the instrument for all those companies that wish to defeat the evil deemed dividends tax, but yet would desire to prevent an immediate cash outflow so that it would not impair their ability to execute any future expansions and / or acquisitions. The shareholders would receive bonus debentures without paying for them, earn interest on them and collect cash on redemption. Thus bonus debentures represent a plan for repayment of surplus cash to shareholders. Though buy back of shares is an alternative, it may not be an equitable alternative as only a few shareholders would be in a position to tender and benefit from a buy back offer.
+
+Other factors in favour of bonus debentures
+
+Unlike bonus shares, bonus debentures do not dilute the share value. Nor do they commit a company to a permanent servicing burden, which is the case when bonus shares are issued. A company opting for a bonus share issue would find it difficult to provide an attractive dividend on the enhanced capital in future years as the Earning Per Share (EPS) of the company would decline. The issuance of bonus debentures instead of bonus shares would improve Return on Equity (ROE)of the company as bonus debentures do not increase the number of shares nor would it dilute the share value.
+
+As both instruments could be utilized for the prevention of an immediate cash outflow, a company may resort to bonus debentures to avoid the deemed dividend tax of 15% in the year of issuance but incurring the expense for payment of the 10% dividend tax. However, unlike dividends paid on bonus shares that arise from post tax profits, interest payable on debentures would be a tax deductible expense. Thus in subsequent years the company would be able to improve its Return on Equity (ROE), Dividends Yield, Earnings Per Share (EPS), and improve the balance sheet, though the gearing would increase.
+
+However, a company issuing bonus debentures to its holding or subsidiary company to avoid deemed dividend tax and to obtain future tax benefit for interest deduction should be mindful of the thin capitalization rules as interest over and above the applicable debt equity ratio of the company would not be tax deductible. (Manufacturing companies 3:1 and others 4:1)
+
+Procedure for issuance
+
+The creation of both bonus shares and bonus debentures follow a similar process. Reserves or profits are debited and the credit entry is passed to the Stated Capital in the case of the former, whilst in the latter case the credit entry is to the Debenture Account. Fully paid debentures are issued with the approval of the shareholders at an Extra Ordinary General meeting. The prerequisite corporate power would be in the Articles if it contains a clause akin to Article 129 of table A of the Old Act. There is no debate that the new Act does not allow the issuance of bonus debentures due to lack of consideration or a specific Section in the Act or for any other reason. The legality is beyond any question.
+
+The incurring of a debt to or for the benefit of a shareholder, by distribution of indebtedness is included in the definition of distribution in Sec. 529 of the Companies Act. Thus the issuance of bonus debentures would oblige a company to ensure that the proper procedure laid down in Sec 56 of the Companies Act is followed, including passing of a board resolution, obtaining auditors' certificate and the signing of a certificate by the directors to confirm the solvency of the company immediately after the issuance of bonus debentures.
+
+Tax on bonus debentures and bonus shares
+
+For income tax purposes, distribution of its own shares to the shareholders is not considered a dividend for income tax purposes in Sri Lanka under the Inland Revenue Act No.10 of 2006. As pointed out by Herman J. in C.I.T v Macan Markar, (1 CTC 154), a case decided under the Income Tax Ordinance of 1932, distribution of bonus shares does not constitute a dividend as it does not entail distribution of profits. In C.I.R. v Blott, (8 TC 101), an old case decided in UK, Rowlatt J. pointed out that there was no distribution of profits where bonus shares are issued "Now I do not think that there is a payment of a dividend to a shareholder unless a part of the profits of the company is thereby liberated to him in the sense that the company parts with it and he takes it." (However, this old position has been changed under Income & Corporation Taxes Act of 1988 of the UK, at present. Even in New Zealand 'bonus issues in lieu' referred to in S.54 of the New Zealand Companies Act of 1993 and 'not a bonus issue in lieu'subject to fulfillment of certain conditions are considered as dividends for income tax purposes.)
+
+The tax liability of bonus debentures had been a subject matter in cases such as CIR v Fisher's Executors 10 TC 302 and Whitmore v CIR 10 TC 645 in the UK prior to 1932. But this has never been a issue in Sri Lanka as distribution of fully paid up bonus debentures to the shareholders has always been recognized as dividends in our income statutes commencing from the 1932 Ordinance. (Unlike bonus shares, bonus debentures create a charge on the assets of the company and the holding of the bonus debenture by the shareholder is in the capacity of a creditor.)
+
+Hence, generally whilst bonus debentures would expose a company for 10% dividend tax, bonus shares would not. However, bonus shares would fail to shield a company from the 15% deemed dividend tax, if it has failed to distribute at least 25% of distributable profits as dividends. (Tax on non distribution of distributable profits perhaps is the correct terminology)
+
+Effect of bonus debentures issued by a quoted company
+
+Whilst the bonus debenture is a shield for a quoted company against deemed dividend tax, the 10% dividend tax paid by it (with no tax withheld on distribution of bonus debentures) could be claimed by a non corporate shareholder as a tax credit in his tax return. In the hands of a corporate shareholder, dividends received by way of bonus debentures from a quoted company would be tax free as it would not form a part of it's total statutory income.
+
+Tax holiday companies
+
+The bonus debenture is an instrument to retain cash whilst shielding against the deemed dividends tax. However, for a company that is not exposed to deemed dividends tax, such as a BOI company during the tax holiday period, issuance of bonus shares would represent a better instrument for cash retention whilst keeping the shareholders happy as it would not be subject to the 10% dividend tax. The tax exemption in the BOI agreement would be wide enough to cover it from the exposure to deemed dividend tax. On the other hand, the advantage to be derived by the tax deductibility of the servicing cost of bonus debentures would not be effective if the company is enjoying a tax holiday.
+
+Bonus shares perhaps is a planning tool for a company enjoying a tax holiday to retain cash during the holiday period for expansion and defer the distribution of cash returns to shareholders without any tax leakage notwithstanding the expiry of the tax holiday period. In order to derive this benefit the company should from the first year of recording profit during the tax holiday, commence the issuance of bonus shares by capitalizing the profits annually. Upon the expiry of the tax holiday and six years after the capitalization of each tranche of profits, it may return such capitalized profits to the shareholders by a process of reduction of capital, redemption (if the bonus shares are redeemable preference shares) or repurchase of shares without attracting any income tax. Thus the bonus share is an effective tool for a BOI company that wishes to retain cash during the tax holiday period and pass on the profits from the venture to the shareholders without incurring a tax charge after the expiry of the tax holiday period.
+
+Income tax is not payable in respect of issuance of bonus shares. But if a company issues bonus shares by capitalizing profits and within six years reduces its capital by repayment of the whole or part of the amount paid up on shares, the payment would be considered a dividend attracting dividend tax in Sri Lanka. However, if the order is reversed, and a reduction of capital by repayment is followed by issuance bonus shares in Sri Lanka, authors opine that the process would not amount to a dividend. Sec 210 of the Income & Corporations Taxes Act 1988 of UK has expressly provided that a bonus issue following repayment of share capital to be a dividend. The definition of the "dividend" in the Sri Lankan Inland Revenue Act does not cover this incidence. Hence this would be another way to distribute surplus profits share holders, without incurring dividend tax.
+
+Stamp duty
+
+Regulations specifically exempt debentures from liability for any stamp duty whilst a cloud of uncertainty looms in the air with regard to the liability of bonus shares due to the stand adopted by the Inland Revenue Department. The Department at present levies 0.5% of stamp duty on the ex-bonus market price of bonus shares.
+
+Hence the specific exemption of stamp duty of debentures tilts the scale in favour of bonus debentures against bonus shares.
+
+Subsequent sale of bonus shares would also attract either stamp duty (unquoted shares) or share transaction levy (quoted shares) whilst transfer of debentures would also not attract any stamp duty or any other levy.
+
+Conclusion
+
+Bonus debenture is a tool for a company wishing to retain cash whilst avoiding the deemed dividend tax in the year of issuance. In the subsequent years bonus debentures would prove to be superior over bonus shares as the service cost is tax deductible. Interest obligations resulting from the debentures, may slightly depress EPS, though the tax shelter due to the additional charge would alleviate this to some extent. As debentures are specifically exempt from stamp duty a sense of certainty would prevail with regard to liability for stamp duty.
+
+Thus subject to subject to the circumstances, bonus debentures could be a tax efficient tool to repay surplus cash to the shareholders. Similarly bonus shares could also be used as a tax planning tool to distribute surplus profits to the share holders under appropriate circumstances.
+
+(The views expressed in this article are that of the authors and not the official position of KPMG Ford Rhodes Thornton & Co.)
+
+Bonus Shares Bonus Debentures
+
+Not a dividend for tax purposes; A dividend for tax purposes;
+
+Not a shield against deemed dividend tax; Shield against deemed dividend tax;
+
+
+
+
+

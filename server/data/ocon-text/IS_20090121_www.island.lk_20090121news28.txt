@@ -1,0 +1,14 @@
+Lecture on "lightning and surge protection for IT and communication equipment"
+
+Professor Nihal Karunaratne is scheduled to deliver a public lecture on "Lightning and Surge Protection for IT and Communication Equipment" at the Institution of Engineers, Sri Lanka (IESL). The lecture organised by the IT & Communication Engineering Sectional Committee of the IESL, will be held on the Monday the January 26, at IESL at 120/15, Wijerama Mawatha Colombo 7.
+
+IESL Lanka invites professionals engaged in the field of electronics and other interested parties to attend.
+
+The every day life of the modern human be it home or office is full of electronic systems that are based on submicron transistor based integrated circuits that could be easily damaged by transient surges such as lightning. Professor Karunaratne in his lecture will present an overview of surge protection in the end user perspective. The presentation will provide a practical and industrial approach to surge device absorption systems for power entry as well as signal interfaces. Surge absorbent families such as MOVs and semiconductor families will also be discussed.
+
+Professor Nihal Karunaratne is an electronics engineer with over 30 years experience in the field and is currently a member of the academic staff of the Waikato University of New Zealand.
+
+
+
+
+

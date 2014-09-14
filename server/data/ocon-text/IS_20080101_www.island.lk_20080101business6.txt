@@ -1,0 +1,70 @@
+Monetary and Financial System Stability Issues Bond Market development
+
+by B. D. W. A. SilvaContinued from yesterday
+
+Bond market development and monetary stability
+
+The developments in bond markets improve the efficiency of monetary management. Banks, which are the main counter parties in the implementation of monetary policy, take into account their borrowings and lending decision based on market determined yield curve. Accordingly, changes in the monetary policy stance are reflected in the markets and improve the transmission of monetary policy.
+
+A developed bond market reduces the need for governments to finance its budget deficits from inflationary banking financing. Therefore, the bond market is an alternative channel for mobilizing funding which enhances the flexibility of monetary management.
+
+A well-established yield curve allows inferring expectations of inflation and interest rates. A distorted yield curve on the other hand, restricts the information that can be obtained and restricts the ability to affect long-term rates. Moreover, a market determined yield curve facilitates investors and savers to price their borrowings and lending more competitively. Thus, the yield curve promotes economic growth prospects through its impact on promoting savings, expanding investment thus reducing bank borrowing leading to reduced monetary expansion.
+
+The development of government securities market also facilitates implementing indirect instruments of monetary policy. Most countries are moving away from the use of direct instruments to indirect instruments such as repos and direct open market operations. Typically, Treasury bills and Treasury bonds are the main instruments used in conducting repo transactions. Central banks, in general, absorb and injects liquidity through the purchase and sale of Treasury bills/Treasury bonds. An important component in the management of liquidity is crucially dependent on development of money market and Treasury bill and Treasury bond markets in particular. The development of Treasury bill and Treasury bond markets therefore contribute for the Central Bank to conduct monetary policy more effectively.
+
+Bond market development and financial system stability
+
+Bond market development has a significant impact on strengthening financial system stability. Well-functioning government and corporate bond markets expand the array of financial assets that are available to institutional investors. Long-term investors such as pension funds and life insurance companies require long-term investments that match their long-term liabilities. Market determined investments reduce mismatches and facilitate their portfolio management. In this context, bond markets help strengthen the balance sheets of these institutions and reduce their exposures to interest rates and roll over risks of investments.
+
+Another important advantage is that it reduces instabilities arising from foreign currency mismatches and the dependence on international bond markets by corporates. In fact, combined with a sound debt management policy, domestic bond market allows a reduction of the exposure to other financial risks since bond market provides an alternative and cost efficient source of medium and long-term capital for corporates. Moreover, a market-oriented funding policy based on a liquid government securities market will reduce debt-service costs over the medium to long-term.
+
+A liquid corporate bond market may prevent development of asset price bubbles. Bond markets expand the array of financial instruments available to diverse investors. Yield curve allows investors to infer more information about market expectations regarding interest rates and other economic developments. With the expansion of market players in the market, the herd behaviour will also be restricted.
+
+Development of bond markets facilitate and expand the opportunities to financial institutions to raise debt capital. Specially, this is important since banks are required to build capital with the implementation of new Basel Capital Accord. The development of other ancillary intermediaries such as rating agencies too support the overall credit risk management of financial intermediaries.
+
+Another important advantage is that it helps governments to structure the debt management. In fact, several US Dollar-denominated debt instruments have been introduced by the government of Sri Lanka in recent years in view of the issues in raising borrowings from the market. Sri Lanka Development Bonds (SLDBs), The Sri Lanka Nation Building Bond (SLNBB), a new sovereign debt instrument, foreign commercial borrowing through syndicated loans and an international bond issue are the different instruments through which foreign borrowings were raised to complement domestic borrowings. These bonds mitigated pressures on the domestic debt securities market and to stabilize the interest rate structure. Yet, these increased debt management vulnerabilities to exchange rate movements.
+
+In general, investment programmes undertaken by government to a large extent are the infrastructure development which have long gestation, periods. The continuation of the government's investment programmes mainly concentrating on infrastructure development projects, which have long-term gestation periods, creates the necessity of raising long-term funds for government. Developed bond markets expand not only the range of opportunities available for government but also the assets available for institutional investors.
+
+Importance of Derivative Markets in Bond Markets, new risks and their impact on monetary and financial stability
+
+Derivative markets play an important role in the development of bond markets. Investing in bond markets exposes investors to market, liquidity and credit risks. However, derivative markets in currencies and interest rate swaps and various derivative products such as credit derivatives allow for allocation/transfer of risks such as credit risk, interest rate risk between market participants according to their preferences, expectation and risk aversion and make market liquidity throughout the system.
+
+For instance, the securitisation, which originates as an issue of bonds or securities by the pooling receivables of capital and interest on loans, is sold to investors so that banks can raise liquidity without waiting for repayments of the original loans. These securitisations subsequently have become more complex with the involvement of investment banks, mortgage lending institutions, equity firms, mutual/hedge funds and credit rating agencies leading to the introduction of innovative financial products generally known as 'complex structured finance products', e.g., asset or mortgage-backed securities (MBSs) and collateralized-debt obligations (CDOs).
+
+One purpose of these exotic products is to create new securities that could be sold to a broader group of investors such as pension funds and insurance companies whose investment horizon better suited depending on their liability structures. These instruments therefore enabled the transfer of credit risk to a diversified group of investors in the market. Therefore, these innovative products were generally encouraged, even by regulators, as a risk management tool. Markets evolved to trade these securities to suit investors with different risk appetites. Interestingly, during last two years, financial regulators have been raising concerns over the credit derivative markets boom because the risks taken by the investors outside the regulatory purview.
+
+Although the derivative markets and hedging instruments facilitate the expansion of the bond market, the evolution of derivative products has brought in two distinctive features to the financial market: an increasing complexity of instruments, which combine an extensive use of derivatives with customization to individual investors' needs and the fragility of off-balance sheet structures and vehicles, which was rediscovered during the recent sub-prime turmoil.
+
+Following the sub-prime issue, a number of central banks in developed economies acted to stabilise markets and forestall a potential financial crisis. The European Central Bank, the US Fed injected significant amounts and in order to encourage banks to come to it for liquidity. The Fed reduced the discount rate, the charge it makes for emergency lending to banks. The Central Banks of Canada, Japan, the UK and Australia also intervened to provide liquidity to the market. This recent episode also highlights that regulators are required to play a major role indirectly in finance product innovation, in view of the systemic and economic risks. Regulators are required to ensure that systemically important banks and financial institutions are not exposed to concentration risks in specific products or markets. Banks and financial institutions are also required to follow fair market practices without unduly affecting public confidence.
+
+The conduct of monetary policy is one of the prime responsibilities of the Central Bank, since monetary policy is the means by which Central Bank attempts to attain one of its core objectives, i.e., the economic and price stability. Monetary Law Act provided a wide range of instruments that could be used by the Central Bank for monetary management.
+
+At present, the monetary policy framework places greater reliance on market based policy instruments and the use of market forces to achieve the desired objectives as they help achieve a better allocation of resources, reduce associated transaction costs and improve the efficiency in monetary management. As a further step in making toward for more market-oriented monetary management system, the Central Bank moved to more market based active open market operations with effect from 03 March 2003.
+
+Steps were also taken to enhance the transparency, predictability and credibility of monetary policy. After each decision on required change in monetary policy stance or otherwise, a public statement, i.e., a press release, explaining the monetary and economic conditions that led to the particular decision on the policy change (or otherwise), is issued to the public. In addition, the monetary policy framework and monetary projections, along with the explanatory notes are regularly posted on the Central Bank website.
+
+The independently floating exchange rate regime, which was implemented from January 2001 served well in reducing the excess volatility in the exchange rate and maintaining the country's competitiveness vis-a-vis the rest of the world, while allowing greater freedom in the conduct of monetary policy.
+
+Polices to promote financial system stability
+
+A comprehensive approach is adopted in preserving financial stability, which is one of the core objectives of the Central Bank. This encompassed surveillance at systemically important financial institutions; regulations to ensure prudent practices by banking institutions and healthy developments in financial markets and supervisory activities. This is work is being initiated towards developing additional tools to enhance ongoing surveillance and analyses of financial system resilience which includes developing forward-looking indicators both at the system and institution levels to identify, measure, assess and predict emerging vulnerabilities and adopt stress test methodology to ensure its effectiveness and relevance.
+
+Given the diverse risks associated with financial conglomerates, it has become increasingly important to ensure that the activities of financial conglomerates do not pose risks to the stability of the financial system. In this regard, the Central Bank has introduced a number of policy initiatives to address the potential systemic risk posed by financial conglomerates to monitor systemic risks of financial conglomerates and promote consolidated supervision.
+
+Banking sector
+
+The stability of the banking sector, which is the major sub-sector within the financial sector, is crucial for bond market since it provides payment facilities and a major buyer and issuer of securities and facilitates secondary market activity. In fact, banks are one of the major investors in government securities market to meet statutory liquidity requirements and as a collateral for repo transactions in managing short-term liquidity. Accordingly, number of measures continued to be taken promote a competitive, sound and robust banking sector.
+
+There has been a significant improvement in capacity and capability of the banking system and this is supported by improved earnings, increase in capital funds and improvements in risk management amidst enhanced regulatory and supervisory framework. This was further underpinned by the gradual decline in non-performing loans (NPLs), reflecting general improvements in credit quality and enhanced risk management standards and practices over the years. The strong financial position has enabled the banking sector to expand the access to finance.
+
+With a view to further strengthening the efficiency and greater competition among financial institutions, a number of legal reforms relating to the financial sector were brought in and regulatory oversight were enhanced to be in line with international best practices.
+
+Money market
+
+The Central Bank has implemented several measures to broaden and deepen the money market. In order to help pricing money market products, the Central Bank started providing Sri Lanka Interbank Offered Rate from 1999. The Central Bank also engages in Repurchase and Reverse Repurchase transactions in order to inject and absorb liquidity from the market. Further, it disseminates information on market transactions on a daily basis. Measures have also been taken to further promote and upgrade the payments system to take effect large value money market transactions through the Real Time Gross Settlement System and the Scripless Securities System, which will expand and promote the efficiency of money market transactions.
+
+
+
+
+

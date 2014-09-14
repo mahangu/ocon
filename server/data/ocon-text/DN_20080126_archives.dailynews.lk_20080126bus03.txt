@@ -1,0 +1,24 @@
+BoC strengthens internet banking security
+
+Bank of Ceylon (BoC) has deployed an advanced identity protection software from Indian based VeriSign Inc, to fight internet identity theft, phishing and on-line financial fraud.
+
+VeriSign Vice President Shekhar Kirani said this has laid the foundation for Sri Lanka to gain internet security, which is the best technology with the increase of Internet banking.
+
+Rajiv Chadha. Picture by Sumanachandra Ariyawansa
+
+'In deploying the VeriSign identity Protection Services (VIP) to strengthen the authentication of the bank's internet banking facility for customers, the Bank has added a key layer of protection to safeguard its customers' digital identities, he said.
+
+Under this system, BoC customers can use a single security token to authenticate themselves across any VIP enabled online commerce website including leading online commerce sites such as eBay and PayPal.
+
+As a result, any of the Bank's customers who have already received a security token from such sites also have the opportunity of using it in the bank's internet banking facility, Kirani said.
+
+The multi-factor authentication implemented with VIP services by BoC is designed to address these problems. It combines a primary factor with a secondary factor but if an attacker steals only the first factor it cannot forge with the secondary factor and will be unable to authenticate," Kirani said.
+
+Head of IT BoC Nissanka Janaratne said the Bank will be initially extending the security solution to high usage, high networth internet banking customers but will eventually be extending the solution to all active internet banking customers with the reach of 100,000 internet using customers.
+
+He said currently the Bank has more than 5,000 internet users with BoC, which is growing in number.
+
+
+
+
+

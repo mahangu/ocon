@@ -1,0 +1,68 @@
+How to measure your success
+
+The reasons for a campaign's success or failure can be hard to spot, but some marketeers are pioneering new ways to sort the wheat from the chaff.
+
+Convincing others of the value of your work is easier in some jobs than in others. If you're an engineer, well, the bridge was built and it hasn't collapsed. Lawyer? Case closed. But for the marketeer, demonstrating return on investment (ROI) is not so simple. Did the campaign really yield that sales uptick, or were people just in the mood to buy more handbags?
+
+Today's marketing professionals have more at their fingertips with which to demonstrate value for money. The increasing share of marketing spend going to the more technically measurable online and mobile spheres is helping marketeers generate useful data.
+
+Yet a recent survey showed that more than 80 percent of European marketing officers aren't happy with their ability to measure marketing performance. So where should you be looking and what should you be measuring?
+
+Hard and soft options
+
+It's clear that the development of softer metrics, measuring things like customer engagement rather than cash revenues, has presented a challenge to the marketeer. How can you define the benefits to brand equity of an increased buzz? Not easy.
+
+"There's a massive need for well-defined metrics to measure 'engagement' because it is an emotional measure," says Marketing Consultant Peter Field. "Focus groups can give you some sensitivity, but they don't give you hard numbers and they never will." Field believes that a marriage of hard and soft metrics, particularly in digital media, is still some way off, but it's worth aiming for. "We desperately need a reliable quantitative technique to measure the emotional engagement people have with brands and there's a lot of work going on to do that. In my view, it'll have to be a lot more subtle than asking people 'do you like this brand?".
+
+A decent rule of thumb is of course the bottom line. The Board will want to know how your efforts have lifted it - or not. But there's no harm in getting measurement data from focus groups and more qualitative channels if it can also demonstrate a contribution to the success of the business.
+
+There are a number of agencies out there trying to square the circle of qualitative data that will provide hard metrics with which to make business decisions.
+
+Report cards
+
+Working out how to use that data can be the tough part. Marketing consultancy ExactTarget.com Senior Deliverability Consultant RJ Taylor suggests simple record keeping for comparison purposes is a good way to evaluate your success. "Create a report card using Excel," he says.
+
+"Using a line for each campaign, compare your response rates to both your customer and industry benchmarks. With a simple formula, you can create indices to quickly identify the most and least successful campaigns.
+
+Create and review these report cards at least quarterly. It's not enough to simply compile this data and save it on your hard drive somewhere - make sure you act on your findings," he says.
+
+Taylor argues that monitoring your campaign from the start will allow you to make adjustments as you go along, especially when carrying out e-mail marketing campaigns.
+
+Identifying and acting on trends can make the difference between the successful campaign and the merely adequate. "With your report card in hand, it's easy to spot trends in the data," says Taylor. "Compare your campaigns to identify the elements that are consistently performing well or poorly. Over time, you'll be able to spot the best day and the best time to send your message, seasonal trends and creative best practices for your audience," he says.
+
+The holy grail?
+
+It's fair to say that ROI has become an obsession with marketeers in the past decade. It's the measure that non-marketeers are most comfortable with. But Peter Field argues that this narrow focus on ROI is a misleading and unhelpful development.
+
+He argues that ROI taken on its own is a crude and often misleading measure. "There's a very simple way of improving short term ROI: just cut the budget," Field says. "There won't be any immediate impact, since most brands have a certain momentum of their own and they can carry on fine for a while. Meanwhile ROI goes off the scale and everything's great. Spend goes down."
+
+And then? "Then it hits the buffers, sales go into reverse and it's going to cost you a lot more to get back to where you would have been, had you simply carried on. So I think this obsession with ROI is dangerous in the wrong hands," says Field. He believes that ROI needs to be defined in a much more sophisticated way if marketers are to use it to demonstrate value.
+
+"Basic ROI is fine if you're looking at the long term and for sustainable growth in the business," he says.
+
+"But if you're looking at the need to boost sales this year, then it's a pretty useless guide. If I was a Finance Director I can bring out the worst behaviour. ' certainly wouldn't be targeting my marketing director on short-term ROI. No way," he says.
+
+Pleasing your Finance Director, however, might not be your only aim in measuring your marketing effectiveness. What about sales? There's certainly a case to be made for a more collaborative approach when it comes to setting the standards by which the campaign will be judged. And including attitudinal data in post-campaign analysis helps marketeers understand not only how a customer has behaved in response to a campaign, but also why.
+
+Pioneers
+
+Lastminute.com is using new methods to judge marketing effectiveness and the company believes that its recent efforts to gather new customers have directly increased sales.
+
+When Lastminute looked at its paid advertising and search-based efforts, it realised neither was working as well as it would like. Unfortunately, the two metrics were reporting on two separate systems, which meant Lastminute's marketers could do little to compare the two and spot the overlaps and mismatches.
+
+Lastminute's head of search marketing and site management, Duncan Horton was aware that the business was failing to react sufficiently well to its customer feedback.
+
+"We had limited visibility into the search terms that visitors were using to reach us. There was virtually no insight into the customers' behaviour between the time they entered a search term until they made an actual booking," he says. "We really needed to understand what made some customers make a booking and what made other customers drop off the site. From a paid advertising and search-engine marketing perspective, there was a visibility void."
+
+Getting to the bottom of what was and wasn't working became crucial, so Lastminute followed the lead of several of its web counterparts and bought new analytics software. The software, Omniture's Site Catalyst suite, enabled Lastminute to compare the effectiveness of two different page designs and navigation.
+
+The click-through data revealed that navigation tabs running vertically down the left-hand side of the site were not nearly as fruitful as those running horizontally. The company made the appropriate changes and placed links to the category home pages across the top. This accounted for a 700 percent increase in click through rates.
+
+Omniture claims the increase in the amount of data available to Lastminute has allowed the company to make more informed and clear-headed marketing decisions.
+
+But before you rush out to buy some all-singing all-dancing software, take note that for each of Lastminute's six business divisions - hotels, car hire and so on - a separate data analyst was required to make sense of the reports the software generated. Something to think about when browsing the brochure.
+
+
+
+
+

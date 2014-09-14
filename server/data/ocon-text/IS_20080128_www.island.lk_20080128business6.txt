@@ -1,0 +1,28 @@
+Phishing, pronounced 'fishing', will be possible after Bank of Ceylon implemented an advanced identity protection system developed by VeriSign India Private Limited.
+
+Phishing is known in computing as the attempt to fraudulently acquire sensitive information such as usernames, passwords and credit card details and then used to commit identity theft and on-line financial fraud.
+
+"Phishing is a big problem in the west and as governments and businesses clamp them down, hackers tend to look at emerging markets," Dr. Shekhar Kirani, Vice President VeriSign India, said stressing the timeliness of BOC's adoption of this system.
+
+VeriSign Identity Protection (VIP) Service is what the system is called and will be the second line of defence after the conventional username and password which will utilise strong authentication and fraud detection techniques.
+
+"We will introduce this service free of charge to our high net worth customers so that we can demonstrate its uses before expanding to the rest of our clientele," Head of IT, BOC, Nissanka Janaratne said.
+
+Each customer will receive a security token, (in a credit card format or USB format) with a digital security number which changes every 30 seconds or each time a button on the surface of the token is punched.
+
+"For someone who is trying to hack into someone else's back account, the odds of getting the combination (username, password and VeriSign security code number) right is improbable" Kirani said.
+
+The VIP service can also be linked to the VIP Network which means BOC customers can use a single security token to access e-commerce sights, like eBay and PayPal, in any part of the world. BOC is in discussions with retailers in Sri Lanka who provide e-commerce services to join the network so that consumers could be more confident of carrying out business transactions over the internet.
+
+The value of this investment was not disclosed but Janaratne said BOC was investing on behalf of Sri Lanka.
+
+"We will be providing the tokens free of charge to our customers so that other retailers only have to upgrade their systems to include VIP Services which will then link them to the VIP Network," he said.
+
+BOC currently has less than five thousand internet banking users out of a seven million strong account base.
+
+Bank of America, HSBC and Northern Trust are some of the banks who have adopted VIP Services. 93 percent of the Fortune 500, 40 of the world's largest banks and 47 percent out of the top 50 e-commerce sites are protected by VeriSign. (DD)
+
+
+
+
+

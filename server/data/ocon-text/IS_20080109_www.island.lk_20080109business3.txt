@@ -1,0 +1,50 @@
+Bond Market Development Continued from Yesterdayby C. J. P. Siriwardena
+
+The financial system plays a multiple role in the bond market operations acting as issuers, investors, intermediaries and liquidity providers in the market. The primary dealer system (II primary dealers) and licensed commercial banks mainly operate as intermediaries in the bond market in addition to maintaining bonds in their portfolios for trading and investment purposes.
+
+In the investment front, contractual saving institutions which own long term capital are major institutional investors in the bond market representing over 60 per cent of total outstanding bond stock in the market. The position available in the financial system for bond holders to undertake discount or repo operations (keep) improve the liquidity in the bond market.
+
+Financial markets
+
+Financial markets play an important role for the efficient allocation of financial resources and diversifying risks in the economy. The government has given high priority to develop financial markets that help lower the cost of raising liquidity and capital. Since financial markets represent a key segment of the overall financial system, safety and efficiency of financial markets are important to ensure the stability in the overall financial system.
+
+Money market
+
+Money market operations in Sri Lanka comprises two active markets: The first is interbank call money market and the second is Treasury bill (primary and secondary) market. The other money market operations such as commercial paper market and central bank securities market are not significant in the domestic market.
+
+Inter bank call money market is a very vibrant market that facilitates licensed commercial banks to meet their liquidity mismatches arising from day to day operations thereby matching the liquidity risks in the banking system. The stability in the liquidity situation in the call market is supported by the provision of repo and reverse repo facilities through the Central Bank. The borrowing and lending operations in this market are largely for overnight period. The call market interest rate vary mainly with the liquidity situations and Central Bank policy rates mostly act as a benchmark to determine the lending rate in the call market, which is mostly settled in between the two policy rates under normal market conditions.
+
+Treasury bills which are short term government debt instruments issued under multiple bidding system used to raise funds from the domestic market for government budgetary operations. Treasury bills are highly liquid money market instruments and considered as an alternate source of liquidity and investment vehicle.
+
+Under the existing debt management strategy, new issues of Treasury bills to raise funds for budgetary operations are limited to a minimum level to reduce the share of short term public debt stock in the total debt portfolio in order to lower the volatility in the debt market. However, re-issue or roll-over of existing Treasury bill stock (Rs. 257 billion) through a regular weekly auction process help maintain the liquidity in the market. The primary market operations are limited only to Primary Dealers (PDs) who are permitted to access to the primary auctions at the Central Bank through the electronic bidding system. The Treasury bill is the only government debt instrument permitted by the Central Bank to purchase from the primary market. The secondary market for Treasury bills is very active and covers outright sales and purchases and repo and reverse repo transactions. With the introduction of scripless form issue under the Scripless Securities Settlement System (SSSS) complement with Real Time Gross Settlement (RTGS) system and Central Depository System (CDS), Treasury bill market operations recorded significant improvement in the recent past.
+
+Equity market
+
+Sri Lanka has one of the oldest share markets in the world. Share market operations began during the British colonial period with the inception of theColombo Share Brokers' Association in year 1896. Over the last 110 year period, it has been evolved and since 1990, renamed as Colombo Stock Exchange (CSE). During last two decades, the CSE has undergone significant changes in order to develop the activities in the equity market.
+
+These developments include establishment of a public trading floor and inauguration of trading on the open outcry system (1984), liberalization of investment for non-nationals (1990), automation of the clearing system with the establishment of Central Depository System (1991) and automation of trading with the inception of screen-based trading system (1997). As at end 2006, 238 companies were listed on the CSE and their market capitalization was over Rs. 840 billion equivalent to 32 per cent of estimated GDP for 2006. In several occasions in the recent past, the CSE was ranked as the most active stock market in the region.
+
+Local investors both individuals and institutions play a dominant role in the equity market in terms of market value. However, foreign investors, mainly institutional investors played a significant role until the recent past increasing their share in the market up to 43.3 per cent in 2000. Since then, foreign investors' share showed gradual decline and decrease to below 14 per cent by end of 2005 due to rapid increase of local participation in the market. Although, this analysis is in terms of a share to the total market value, foreign investment in value terms has gradually increased over the past. The equity market is not fully liberalized for foreign investors as there are some restrictions still remain prohibiting or limiting foreign investors entering in to certain sectors of the market.
+
+The equity market comprises 20 sub sectors. In terms of market capitalization, telecom sector dominates in the market followed by financial institutions, diversified holdings, hotel services and food & beverage sector accounting for over 77 per cent of the market. Since the introduction of the CDS, it acts as the depository for all securities traded and is responsible for the post-trade clearing and settlement of transactions. Trades are in scrip less form that enable to record trading transactions in the form of book keeping entry by making corresponding debit and credit entries in client accounts.
+
+The settlement of the equity market differs for buyers and sellers with T+3 and T+4 settlements dates' system, respectively. In addition, inter-participatory settlement takes place through the nominated settlement bank of the CDS. In addition to normal trading in the market, stock borrowing and lending system was introduced in 2001. This is similar to the collateral loans of securities for a limited period of time under which lender can transfer securities to borrower with an agreement for the borrower to replace them on agreed time.
+
+The operations of the equity market are highly sensitive to the changes in the political and peace environment in the country as in most of other markets. In addition, the market performance is closely related to the sound fundamentals and profitability of key players in the market. The financial institutions exposure to the equity market through investment and lending activities are low and threrefore impact of equity market operations on the financial system stability is relatively low.
+
+Bond market
+
+The bond market in Sri Lanka commenced its active operations in 1990s with the issuance of medium and long-term bonds, both by the government and the corporate sector. This process has been accelerated in line with the financial sector reforms and restructuring programme implemented in the last decade. The debt management policy of the government has substantially reformed by shifting from issuing non-marketable instruments (such as Rupee loans) and short-term marketable instruments (such as Treasury bills) to medium and long-term marketable instruments.
+
+As a result, the government was compelled to introduce a long-term marketable and fixed income type new debt instrument - Treasury bond - in 1997 to raise funds from the domestic market to finance the government budgetary operations. Subsequently, government borrowings through non-marketable instruments and short-term marketable instruments have been gradually reduced over the period. Furthermore, the government has exercised the early retirement facility or 'call option' of the existing stock of non-marketable securities to replace them by Treasury bonds to accelerate the development of the bond market. The gradual increase of the maturity structure of the Treasury bonds enabled the market to establish a medium-term yield curve which has provided a benchmark for the domestic corporate bond market.
+
+Concomitant to this programme, steps have also been taken to develop the market infrastructure. These include the improvement of primary and secondary markets, computerisation of market infrastructure, scrip less form issuing system and improvement of payments and settlements systems.
+
+The required reforms have also been brought into the legal framework, appropriate to the development of the bond market for the smooth transformation towards the market based debt management. The authority strengthened the monitoring and regulatory work at the central level in order to ensure the safety and security of investment made by the public and stability of the overall financial system.
+
+The authority's continuous commitments on this process and fairly developed domestic money market operations helped develop the bond market, specially government bond market within a relatively shorter time period.
+
+
+
+
+

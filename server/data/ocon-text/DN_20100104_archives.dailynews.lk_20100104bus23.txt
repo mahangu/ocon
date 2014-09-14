@@ -1,0 +1,158 @@
+Trading
+
+Rudiments of economics :
+
+Why countries trade
+
+Brad McDonald
+
+If there is a point on which most economists agree, it is that trade among nations makes the world better off. Yet international trade can be one of the most contentious of political issues, both domestically and between governments.
+
+When a firm or an individual buys a good or a service produced more cheaply abroad, living standards in both countries rise. There are other good reasons consumers and firms buy abroad - the product may better fit their needs than similar domestic offerings or it may not be available domestically.
+
+Foreign producers also benefit by making more sales than by selling solely at home and by earning foreign exchange that can be used to purchase foreign-made products.
+
+Still, even if societies as a whole gain when countries trade, not every individual or company is better off. When a firm buys a foreign product because it is cheaper, it benefits - but the (more costly) home producer loses a sale.
+
+However, the buyer usually gains more than the domestic seller loses. Generally, the world is better off when countries import products that are produced more efficiently and cheaply abroad. The exception is if the foreign costs of production do not include social costs, such as pollution.
+
+But those who feel they are adversely affected by foreign competition have long opposed international trade.
+
+Soon after economists such as Adam Smith and David Ricardo established the economic basis for free trade, British historian Thomas B. Macaulay was observing the practical problems governments face in deciding whether to embrace the concept: "Free trade, one of the greatest blessings which a government can confer on a people, is in almost every country unpopular."
+
+Two centuries later trade debates still resonate.
+
+Why countries trade
+
+Ricardo observed that trade was driven by comparative rather than absolute costs (of producing a good). One country may be more productive than others in all goods, in the sense that it can produce any good using fewer inputs (such as capital and labour) than other countries require to produce the same good.
+
+Ricardo's insight was that such a country would still benefit from trading according to its comparative advantage-exporting products for which its absolute advantage was greatest and importing those for which its absolute advantage was comparatively less.
+
+Comparative advantage
+
+Even a country that is more efficient (has absolute advantage) in everything it makes would benefit from trade. Consider an example:
+
+Country A: One hour of labour can produce either three kilograms of steel or two shirts. Country B: One hour of labour can produce either one kilogram of steel or one shirt.
+
+Country A is more efficient in both products. Now suppose Country B offers to sell Country A two shirts in exchange for 2.5 kilograms of steel.
+
+To produce these additional two shirts, Country B diverts two hours of work from producing (two kilograms) steel. Country A diverts one hour of work from producing (two) shirts. It uses that hour of work to instead produce three additional kilograms of steel.
+
+Overall, the same number of shirts is produced: Country A produces two fewer shirts, but Country B produces two additional shirts.
+
+However, more steel is now produced than before: Country A produces three additional kilograms of steel, while Country B reduces its steel output by two kilograms. The extra kilogram of steel is a measure of the gains from trade.
+
+Though a country may be twice as productive as its trading partners in making clothing, if it is three times as productive in making steel or building airplanes it will benefit from making and exporting these products and importing clothes. Its partner will gain by exporting clothes-where it has a comparative but not absolute advantage-in exchange for these other products.
+
+The notion of comparative advantage also extends beyond physical goods to trade in services-such as writing computer code or providing financial products.
+
+Because of comparative advantage, trade raises the living standards of both countries. Douglas Irwin (2009) calls comparative advantage 'good news' for economic development.
+
+"Even if a developing country lacks an absolute advantage in any field, it will always have a comparative advantage in the production of some goods" and will trade profitably with advanced economies.
+
+Differences in comparative advantage may arise for several reasons. In the early 20th century, Swedish economists Eli Heckscher and Bertil Ohlin identified the role of labour and capital, so-called factor endowments, as a determinant of advantage.
+
+The Heckscher-Ohlin proposition maintains that countries tend to export goods whose production makes intensive use of relatively abundant factors of production. Countries rich in capital-such as factories and machinery-export capital-intensive products, while those rich in labour export labour-intensive products. Economists today think that although factor endowments matter, there are also other important influences on trade patterns (Baldwin, 2008).
+
+Recent research shows that when trade opens up, it is followed by adjustment not only across industries, but within them as well. Increased competition from foreign firms puts pressure on profits, forcing less-efficient firms to contract, making room for more efficient firms.
+
+Expansion and new entry introduce better technologies and new product varieties. Likely most important, trade enables greater selection across different types of goods (say refrigerators).
+
+This explains the prevalence of intra-industry trade (for example, countries that export household refrigerators may import industrial coolers), which the factor endowment approach does not encompass.
+
+There are clear efficiency benefits from trade that result in more products - not only more of the same products, but greater product variety.
+
+For example, the United States imports four times as many varieties (say different types of cars) as it did in the 1970s, while the number of countries supplying each good has doubled. An even greater benefit may be the more efficient investment spending that results from firms' access to a wider variety and quality of intermediate and capital inputs (think optical lenses rather than cars).
+
+Economic models used to assess the impact of trade typically neglect technology transfer and pro-competitive forces such as the expansion of product varieties.
+
+This is because these influences are difficult to model, and results that do incorporate them are subject to greater uncertainty. Where this has been done, however, researchers have concluded that the benefits of trade reforms-such as reducing tariffs and other nontariff barriers to trade-are much larger than suggested by conventional models.
+
+Why trade reform is difficult
+
+Trade contributes to global efficiency. When a country opens up to trade, capital and labour shift toward industries in which they are used more efficiently.
+
+Societies derive a higher level of economic welfare. But these effects are only part of the story.
+
+Trade also brings dislocation to firms and industries that cannot cut it. Such firms often lobby against trade.
+
+So do their workers. They often seek barriers such as import taxes (called tariffs) and quotas to raise the price or limit the availability of imports.
+
+Processors may try to restrict exports of raw materials to artificially depress the price of their own inputs.
+
+By contrast, the benefits of trade are diffuse, and its beneficiaries often do not recognize how trade benefits them.
+
+Trade policies
+
+Reforms since World War II have substantially reduced government-imposed trade barriers. But policies to protect domestic industries vary.
+
+Tariffs are much higher in certain sectors (such as agriculture and clothing manufacturing) and among certain country groups (such as less-developed countries).
+
+Many countries have substantial barriers to trade in services in areas such as transportation, communications, and the financial sector; others have policies that welcome foreign competition.
+
+The United States, for example, is reported to collect about 15 cents in tariff revenue for each $1 worth of imports from Bangladesh (Elliott, 2009), compared with one cent for each $ one worth of imports from some major western European countries-even though imports of a particular product from Bangladesh face the same or a lower tariff than a similarly classified product imported from western Europe.
+
+World Bank economists calculated that exporters from low-income countries face barriers on average 50 percent higher than those of major industrialized countries (Kee, Nicita, and Olarreaga, 2006).
+
+Members of the World Trade Organization, which referees international trade, are engaged in a complex effort to reduce and level out government-imposed obstacles to trade in a round of negotiations begun in Doha, Qatar, in 2001.
+
+The talks cover a wide range of issues, many of them politically sensitive, including elimination of remaining farm export subsidies, limiting domestic farm subsidies, and sharply cutting advanced economies' tariffs on farm and industrial products.
+
+Doha also seeks to address other crucial issues such as barriers to trade and investment in services, trade rules in areas such as fishery subsidies and antidumping, and customs and trade facilitation.
+
+If successful, the Doha Round could yield hundreds of billions of dollars in annual global benefits. But some groups have sought to delay and to dilute the deal.
+
+A focus on the greater good, together with ways to help the relatively few that may be adversely affected, can help deliver a fairer and economically more sensible trading system.
+
+Brad McDonald is a Deputy Division Chief in the IMF's Strategy, Policy, and Review Department.
+
+- IMF F&D
+
+ASEAN-China open free trade area to rival world's biggest
+
+China and Southeast Asia establish the world's biggest free trade area (FTA) on Friday, liberalising billions of dollars in goods and investments covering a market of 1.7 billion consumers.
+
+Eight years in the making, the ASEAN-China FTA will rival the European Union and the North American Free Trade Area in terms of value and surpass those markets in terms of population.
+
+Officials hope it will expand Asia's trade reach while boosting intra-regional trade that has already been expanding at 20 percent a year.
+
+"In 2010 we are sending a strong signal that ASEAN is open," H.E Sundram Pushpanathan, of the Association of Southeast Asian Nations (ASEAN), told AFP.
+
+China has just overtaken the United States to become ASEAN's third largest trading partner, and will leap Japan and the EU to become "number one" within the first few years of the FTA, said Pushpanathan, Deputy Secretary-General for the ASEAN Economic Community.
+
+Under the agreement, China and the six founding ASEAN countries — Brunei, Indonesia, Malaysia, Philippines, Singapore and Thailand — are to eliminate barriers to investment and tariffs on 90 percent of products. Later ASEAN members, including Vietnam and Cambodia, have until 2015 to follow suit. Zhang Kening, the director-general of the department of international trade and economic affairs in Beijing, said the average tariff rate China charged on ASEAN goods would be cut to 0.1 percent from 9.8 percent.
+
+Average tariffs imposed on Chinese goods by ASEAN states will fall to 0.6 percent from 12.8 percent.
+
+ASEAN-China trade has exploded in the past decade, from 39.5 billion dollars in 2000 to 192.5 billion last year, Pushpanathan said.
+
+At the same time, ASEAN-China trade with the rest of the world has reached 4.3 trillion dollars, or about 13.3 percent of global trade.
+
+Teng Theng Dar, chief executive of the Singapore Business Federation, said sectors likely to reap the most benefits from the FTA included services, construction and infrastructure, and manufacturing. "Other than product and service innovations, this is one great new business opportunity for the establishment of a regionally-based innovative supply chain for market reach and growth," he said.
+
+Officials said there was more to the deal than sating China's thirst for Asian raw materials like palm oil, timber and rubber, and opening up regional markets for its manufactured products, steel and textiles.
+
+JAKARTA, AFP
+
+China's manufacturing activity expands in December
+
+China's manufacturing activity expanded for the 10th straight month in December as the recovery in the world's third-largest economy continued to gather pace, official data showed Friday.
+
+The China Manufacturing PMI, or Purchasing Managers' Index, rose to 56.6 percent in December from 55.2 in November, the China Federation of Logistics and Purchasing said in a statement on its website.
+
+A reading above 50 means the sector is expanding, while a reading below 50 indicates an overall decline.
+
+"The rising index suggests the Chinese economy has further consolidated its recovery," researcher Zhang Liqun said in the statement.
+
+But a pullback in new export orders in December suggested China's key trading partners were still suffering from the impact of the financial crisis, Zhang said.
+
+New export orders slipped one point to 52.6 percent in December from the previous month, the data showed. "It is too early to be optimistic about the recovery in the global market," Zhang said.
+
+China's export-driven economy is expected to easily exceed the government's oft-stated target of eight percent growth in 2009, mainly as a result of massive stimulus spending to combat the crisis. The nation's economy expanded by 8.9 percent in the third quarter, up from 7.9 percent in the second quarter and 6.1 percent in the first three months.
+
+In 2008, manufacturing accounted for more than 40 percent of economic output in China, which has been hit hard by evaporating demand for its products in key export markets such as the United States and Europe.
+
+
+
+
+
