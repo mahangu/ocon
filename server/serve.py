@@ -109,12 +109,20 @@ class AboutHandler(tornado.web.RequestHandler):
 		html_footer = open("templates/footer.html").read()
 		html_about = open("templates/about.html").read()
 		
-		print html_about
-		
 		self.write(html_header)
 		self.write(html_about)
 		self.write(html_footer)
 
+class DownloadHandler(tornado.web.RequestHandler):
+	def get(self):
+		
+		html_header = open("templates/header.html").read()
+		html_footer = open("templates/footer.html").read()
+		html_download = open("templates/download.html").read()
+		
+		self.write(html_header)
+		self.write(html_download)
+		self.write(html_footer)
 
 if __name__ == "__main__":			
 	
@@ -127,6 +135,7 @@ if __name__ == "__main__":
 	(r"/search", SearchHandler),
 	(r"/context", ContextHandler),
 	(r"/about", AboutHandler),
+	(r"/download", DownloadHandler),
 	(r'/static/(.*)', tornado.web.StaticFileHandler, {'path': 'templates/static'}),
 	]
 	

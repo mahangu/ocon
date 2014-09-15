@@ -3,10 +3,13 @@
 
 <p>At present, the OCON-SL pilot corpus contains 1,448,323 tokens from the <a href="http://www.dailynews.lk/">Daily News</a> (2008 - 2011) and <a href="http://www.island.lk/">The Island</a> (2008 - 2014) newspapers. <strong>This current incarnation of OCON-SL is a pilot corpus. The project aims to collect 10M tokens from 5 Sri Lankan newspapers between 2008 - 2014.</strong></p>
 
-<h3>License</h3>
-The <strong>complete OCON-SL corpus</strong>, along with the software that powers its web interface is available under the <a href="http://www.gnu.org/copyleft/gpl.html">General Public License v3</a>, meaning that they can be used by anyone, for any purpose. The full text corpus, along with the source code of the software that runs this site, <a href="https://github.com/lastnode/ocon">is available for download</a>.
+<h3>Download</h3>
+You are free to download <a href="https://github.com/lastnode/ocon/blob/master/server/data/ocon-text-0.1.zip?raw=true">the current version of the corpus (0.1) in untagged .txt format</a> (4mb zip file). Please note that while every effort has been made to ensure that the corpus is clean and error-free using algorithmic methods, this is still very much a work in progress, and thus <strong>should be used only for testing purposes</strong>.
 
-You are encouraged to download the source, modify it, and distribute it for your own purposes.
+<h3>License</h3>
+<p>The <strong>complete OCON-SL corpus</strong>, along with the software that powers its web interface is available under the <a href="http://www.gnu.org/copyleft/gpl.html">General Public License v3</a>, meaning that they can be used by anyone, for any purpose. The full text corpus, along with the source code of the software that runs this site, <a href="https://github.com/lastnode/ocon">is available for download</a>.</p>
+
+<p>You are encouraged to download the source, modify it, and distribute it.</p>
 
 <h3>Version History</h3>
 <h4>Version 0.1 - September 15th 2014</h4>
@@ -16,4 +19,16 @@ You are encouraged to download the source, modify it, and distribute it for your
 <h3>Bugs</h3>
 <p>Yes, there are several known bugs that I will be fixing over the next few days! The code that runs this site is still very messy, and there is a lot of functionality to be added, and a lot of cleaning up that needs to be done. If you like programming in python and would like to patch my code and make it less awful, <a href="https://github.com/lastnode/ocon">please send me a pull request on github</a>. Of course, you are totally welcome to fork the project as well.</p>
 
+<p>If you find a bug that you don't think I'm aware of, please email me at <em>mahangu at gmail dot com</em>.</p>
+
+<h3>Technical</h3>
+The software that powers OCON-SL is written in python and made up of two main components. It can be modified quite easily to download and host other web and non-web corpora.
+
+<h4>The Scraper</h4>
+<p><a href="https://github.com/lastnode/ocon/tree/master/scraper">The scraper</a> grabs a set of specified text files (by default it takes all .txt files in <em>input/</em>) and then runs through them recursively, reading each line in each file as a URL. These text files are currently formatted as <em>KW_YYYYMMDD.txt</em>, with KW being the keyword you'd like associated with all the web pages in it.</p>
+
+<p>It then grabs the html from each URL it reads and runs it through <a href="https://github.com/miso-belica">Mišo Belica</a>'s wonderful HTML boilerate removal tool <a href="https://code.google.com/p/justext/">Justext</a>. This ensures that no web artifacts such as web page headers, footers or navigation bars get saved into the corpus database. As each page is crawled and then cleaned of boilerplate material, it is stored in a single text file tagged with the name of the newspaper, the date, and a truncated version of the URL it was downloaded from.</p>
+
+<h4>The Server</h4>
+<p><a href="https://github.com/lastnode/ocon/tree/master/server">The server</a> is powered by <a href="http://www.tornadoweb.org/en/stable/">Tornado</a>, a small but powerful web application framework. The corpus is indexed using <a href="https://pypi.python.org/pypi/Whoosh/">whoosh</a>, a super fast search and indexing module for python, and of course, python's' indomitable <a href="http://www.nltk.org/">Natural Language Toolkit</a> is used for tokenizing sentences. In future, the same module will be used to enable POS tagging and collocation searches.</p>
 
